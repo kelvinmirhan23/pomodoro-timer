@@ -1,0 +1,90 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f4f4f8;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    text-align: center;
+    background: white;
+    padding: 2rem 2.5rem;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    width: 320px;
+  }
+  
+  h1 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .tab-container {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .tab {
+    background: none;
+    border: none;
+    font-weight: bold;
+    color: #4f868c;
+    opacity: 0.7;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: 0.2s;
+  }
+  
+  .tab:hover {
+    opacity: 1;
+  }
+  
+  .tab.active {
+    background-color: rgba(0, 0, 0, 0.1);
+    opacity: 1;
+  }
+  
+  .timer {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    color: #222;
+  }
+  
+  .buttons {
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    background-color: #ffcc00;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #ffaa00;
+  }
+  
+  .quote {
+    font-style: italic;
+    font-size: 0.95rem;
+    color: #666;
+    margin-top: 1rem;
+  }
+  
