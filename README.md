@@ -100,8 +100,3 @@ Thanks for reading! Feel free to explore, use, or build upon this — I’m alwa
 — Kelvin
 
 
-
-
-Thanks for reading! Feel free to explore, use, or build upon this — I’m always excited to connect and learn more from fellow developers!
-
-— Kelvin
