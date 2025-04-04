@@ -8,6 +8,7 @@ The Pomodoro Technique is a time management method that breaks work into interva
 Live Site: https://kelvinmirhan23.github.io/pomodoro-timer/
 
 
+
 📖 About This Project
 
 Hi! I'm Kelvin, and this is a personal project I built as part of my application to the Snap Engineering Academy 2025.
@@ -17,6 +18,7 @@ I’m currently pursuing a career shift into computer science, but my path here 
 This Pomodoro Timer project represents both my technical growth and my personal journey to become more intentional with my time and focus. The Pomodoro method has been a helpful system for improving how I work and stay engaged. I wanted to design a version of the timer that felt personal — clean, simple, and infused with the kind of quotes that keep me motivated and grounded.
 
 While I’ve worked with Python and done some basic game development using Pygame, this was my first time building a full front-end web project from scratch and deploying it using GitHub Pages. Learning JavaScript was an interesting challenge — many concepts felt familiar coming from Python, but I still had to self-teach a lot of the syntax and browser-based behavior. I relied heavily on online documentation, YouTube tutorials, and developer communities like Stack Overflow to build up my understanding.
+
 
 
 🎯 Features
@@ -36,6 +38,7 @@ Tab-based mode switching with clear visual feedback
 Responsive layout (mobile-friendly!)
 
 
+
 🔧 How It Works
 
 Built using plain HTML, CSS, and vanilla JavaScript — no libraries or frameworks.
@@ -49,6 +52,7 @@ Switching tabs (Pomodoro, Short Break, Long Break) updates the timer and UI acco
 GitHub Pages is used to deploy the site.
 
 
+
 🚀 How to Run Locally
 
 If you’d like to clone and run this project yourself:
@@ -60,6 +64,7 @@ Open the folder in VSCode or your favorite editor
 Open index.html in your browser (just double-click it)
 
 No installation needed — everything runs in-browser.
+
 
 
 🙏 Acknowledgments
@@ -83,6 +88,7 @@ GitHub Pages Documentation – to publish the live version of this project
 Stack Overflow and ChatGPT for debugging and clarity on vanilla JS syntax
 
 
+
 ✨ Future Improvements
 
 Add audio notifications when time is up
@@ -90,6 +96,7 @@ Add audio notifications when time is up
 Optional dark mode toggle
 
 Auto-switching between work/break sessions
+
 
 
 Thanks for reading! Feel free to explore, use, or build upon this — I’m always excited to connect and learn more from fellow developers!
